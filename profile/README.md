@@ -3,5 +3,5 @@
 
 We provide servel open source repositories hosted on github with correspoiding licenses, please feel free to contact tech-comm@ziliantech.net if you have any questions.
 
-Please look at our wiki pages for technical ariticles from our people: https://github.com/ziliantech-org/doc-zilian-wiki/wiki/
+Don't forget to check out our wiki pages for technical articles from our people: https://github.com/ziliantech-org/doc-zilian-wiki/wiki/
 
